@@ -4,7 +4,7 @@
 <p align="center">DevOps Engineer focused on reliability, automation, and clear delivery pipelines.  
 I design CI/CD, codify infrastructure, containerize apps, and make systems observable.  
 
-Passionate about building scalable cloud-native platforms, improving developer experience,  
+<p align="center">Passionate about building scalable cloud-native platforms, improving developer experience,  
 and applying best practices in infrastructure automation. I enjoy solving complex problems,  
 securing systems, and making deployments fast and predictable.</p>
 
