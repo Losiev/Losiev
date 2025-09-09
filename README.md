@@ -1,7 +1,14 @@
-# 👋 Hi, I’m Illia  
+<h1 align="center">Hi 👋, I'm Vladyslav Hirchuk</h1>
+<h3 align="center">DevOps Engineer</h3>
 
 DevOps Engineer focused on reliability, automation, and clear delivery pipelines.  
 I design CI/CD, codify infrastructure, containerize apps, and make systems observable.  
+
+Passionate about building scalable cloud-native platforms, improving developer experience,  
+and applying best practices in infrastructure automation. I enjoy solving complex problems,  
+securing systems, and making deployments fast and predictable.  
+
+---
 
 ## 🔧 What I like doing  
 
