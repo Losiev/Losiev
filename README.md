@@ -3,8 +3,6 @@
 DevOps Engineer focused on reliability, automation, and clear delivery pipelines.  
 I design CI/CD, codify infrastructure, containerize apps, and make systems observable.  
 
----
-
 ## 🔧 What I like doing  
 
 - 🚀 Shipping fast with GitHub Actions / GitLab CI / Jenkins  
