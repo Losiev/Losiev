@@ -10,7 +10,7 @@ securing systems, and making deployments fast and predictable.</p>
 
 ---
 
-## 🔧 What I like doing  
+## 🔧 Type of work I do 
 
 - 🚀 Shipping fast with GitHub Actions / GitLab CI / Jenkins  
 - 🏗️ Building reproducible platforms with Terraform, Ansible, Helm, Kubernetes  
